@@ -1,4 +1,4 @@
 <meta>
+<info name="PlatneParkingi" author="TomaszCekol#6718" type="script" version="0.0.1" />
 <script src="c.lua" type="client" />
-<script src="s.lua" type="server" />
 </meta>
