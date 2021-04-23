@@ -1,0 +1,2 @@
+# resources
+Only Polish language.
