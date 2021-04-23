@@ -1,3 +1,11 @@
+--[[
+UWAGA: Należy podłączyć nowy system notyfikacji.
+lokalizacje starego (numery linii):
+20
+23
+40
+ZALECANE JEST przełożenie takePlayerMoney do strony serwera]]
+
 parkingi_wlaczone = true --możesz włączać i wyłączać parkingi płatne z powodu np świąt taki o event 
 cena_parkingu = 150 -- tutaj edytujesz cene 
 local parkingspawn = createColCuboid(2409.16, 2312.35, 9.82, 8.33, 29.47, 5.01)
