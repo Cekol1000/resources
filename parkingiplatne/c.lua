@@ -4,12 +4,11 @@ lokalizacje starego (numery linii):
 20
 23
 40
-ZALECANE JEST przełożenie takePlayerMoney do strony serwera]]
+ZALECANE JEST przełożenie takePlayerMoney do strony serwera,oraz stworzenie własnych cuboidów.]]
 
 parkingi_wlaczone = true --możesz włączać i wyłączać parkingi płatne z powodu np świąt taki o event 
 cena_parkingu = 150 -- tutaj edytujesz cene 
 local parkingspawn = createColCuboid(2409.16, 2312.35, 9.82, 8.33, 29.47, 5.01)
-local parkingprzecho = createColCuboid(1960.21, 2408.53, 9.82, 51.63, 6.92, 5.32)
 --ponizszy kod odpowiada za parking obok spawnu LV
 localPlayer = getLocalPlayer ( )
 oplata = 0 
