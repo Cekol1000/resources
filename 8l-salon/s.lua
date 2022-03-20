@@ -10,21 +10,8 @@ local cyganpojazdygp ={
 {-906.59149, 1535.35046, 25.91406}
 }
 local cyganwiadomosci ={
-"Cygan: Kupuj tanio!, jeśli coś zostało bo ten w czarnym koszulku ciągle coś wykupuje.",
-"Cygan: Co chcesz?!, kupuj auto i zjeżdżaj,to nie hotel!",
-"Cygan: Mówili mi że przebiegu nie da się zmniejszyć... a jednak.",
-"Cygan: Ledwo te wozy jeżdżą, ale jak chcesz to kupuj.",
-"Cygan: W tym dużym, kiedyś mi policja przebiła opony.",
-"Cygan: Po co taki biznesmen jak ty tu przychodzi?, no okej,nie mój interes.",
-"Cygan: Czego tu szukasz?",
-"Cygan: Takie nasze wiejskie 'otomoto'..",
-"Cygan: Hm,kupiłeś coś?  na chleb potrzebuje..",
-"Cygan: Z tego się nie da wyżyć",
-"Cygan: 9lajt? uważaj na nich.. lepiej zaczynaj zmieniać hasła do innych portali.",
-"Cygan: Auta, auta, tanie auta!",
-"Cygan: Rosół w kotle mi się gotuje, ruszaj się!",
-"Cygan: Odsuń się..",
-"Cygan: Podobno Ci z 9lajt okradli ludzi...",
+"Cygan: Przykład losowej wiadomości.",
+
 }
 
 cyganczlowiek=createPed (162, -905.60358, 1543.17419, 25.91406 )
